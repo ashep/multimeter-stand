@@ -1,5 +1,7 @@
 # Multimeter stand
 
+A sleek and customizable solution to keep your workspace organized. This stand boasts a sturdy design and customizable dimensions for a perfect fit for your multimeter, all without the need for assembly. With a modern aesthetic, it's the ideal accessory for electronics enthusiasts and professionals seeking a clutter-free workspace. Elevate your efficiency today!
+
 [![Img 1](img/01.jpg)](img/hi-res/01.jpg)
 
 [![Img 2](img/02.jpg)](mg/hi-res/02.jpg)
@@ -14,7 +16,7 @@
 
 ## How to build
 
-- Open the [STL-file](stl/MultimeterStand.3mf) in your favorite slicer.
+- Open the [STL](stl/MultimeterStand.stl) or [3MF](stl/MultimeterStand.3mf) file in your favorite slicer.
 - Prepare, slice and print.
 
 ## How to customize
@@ -34,8 +36,7 @@ I use [SemVer](http://semver.org/) for versioning. For the versions available, s
 
 ## See also
 
-- [Project on Thingiverse](https://www.thingiverse.com/thing:3948771).
-- [Project on Hackster](https://www.hackster.io/ashep/multimeter-holder-f07ec9).
+- [Project on Thingiverse](https://www.thingiverse.com/thing:6431788).
 
 ## Authors
 
