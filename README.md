@@ -14,16 +14,21 @@ A sleek and customizable solution to keep your workspace organized. This stand b
 
 [![Img 6](img/06.jpg)](mg/hi-res/06.jpg)
 
+[![Img 7](img/07.jpg)](mg/hi-res/07.jpg)
+
+[![Img 8](img/08.jpg)](mg/hi-res/08.jpg)
+
 ## How to build
 
-- Open the [STL](stl/MultimeterStand.stl) or [3MF](stl/MultimeterStand.3mf) file in your favorite slicer.
+- Open files from the [stl](stl) directory in your favorite slicer.
 - Prepare, slice and print.
+- `LeftLimiter` and `RightLimiter` should be glued to the stand if you need them.
 
 ## How to customize
 
 - Open [source 3D model](src/MultimeterStand.f3d) in [Autodesk Fusion 360].
-- Open "Parameters" dialog and set variables in "User Parameters" for your needs.
-- Export STL.
+- Open "Parameters" dialog and adjust necessary variables in "User Parameters" for your needs.
+- Export.
 
 ## Contributing
 
@@ -47,6 +52,10 @@ I use [SemVer](http://semver.org/) for versioning. For the versions available, s
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Changelog
+
+### 0.2 (2024-01-19)
+
+Add side limiters.
 
 ### 0.1 (2024-01-13)
 
